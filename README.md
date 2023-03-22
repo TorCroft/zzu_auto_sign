@@ -2,7 +2,7 @@
 ``` shell
 cd D:\zzu_sign_pkg
 pipenv shell
-pyinstaller -D -c -i E:\cheng\resin_monitor\resource\klee.ico --distpath=E:\cheng\auto_sign E:\cheng\auto_sign\index.py
+pyinstaller -D -c -i "icon file path" --distpath="dist path" index.py
 ```
 
 # OnePush
