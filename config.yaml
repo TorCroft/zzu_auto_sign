@@ -1,0 +1,19 @@
+admin:
+  ak_for_baidu_map: 85CphHyiFn**********
+  notify_day: Sun
+  ocr_access_token: 24.7c9d6773c***********
+  ocr_ak: LW3cHlxt**********
+  ocr_sk: noZDvIL**************
+  sleep_interval: 100-300
+  token_expire_date: 2000/01/01 00:00:00
+users:
+  user0:
+    address: # Home address or None(ZZU addr)
+    infected: never  # "was","on-going" or "never"
+    key: # example: Bark key
+    name: # Your name
+    notifier: # Choose the way you wanna notify yourself
+    password: 
+    status: true # false: this would skip this user when it's running
+    uid: 
+  
