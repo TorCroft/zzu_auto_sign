@@ -5,5 +5,5 @@ pipenv shell
 pyinstaller -D -c -i "icon file path" --distpath="dist path" index.py
 ```
 
-# OnePush
-来自银弹大佬的推送包，详情请查看OnePush内的readme.md
+### Credits
+[Onepush](https://github.com/y1ndan/onepush) by [y1ndan](https://github.com/y1ndan).
